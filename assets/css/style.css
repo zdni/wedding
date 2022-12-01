@@ -127,7 +127,7 @@ select {
     background-position: 0px -450px;
     color: #fff;
     text-align: center;
-/*     padding-top: 70vh; */
+    padding-top: 60vh;
 }
 .container p { font-size: 62px; }
 .container p:first-child { font-size: 30px; }
